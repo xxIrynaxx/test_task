@@ -12,7 +12,7 @@ const ExperimentSelector = ({ experiments, selected, onChange }) => {
 
   return (
     <div className="experiment-selector">
-      <h3 className="experiment-selector__title">Експерименти:</h3>
+      <h3 className="experiment-selector__title">Experiments:</h3>
       {experiments.map(id => (
         <div key={id}>
           <label className="experiment-selector__item">

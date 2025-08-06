@@ -4,7 +4,7 @@ import './ExperimentList.css';
 const ExperimentList = ({ experiments }) => {
   return (
     <div className="experiment-list">
-      <h3 className="experiment-list__title">Список експериментів</h3>
+      <h3 className="experiment-list__title">List of experiments</h3>
       <ul>
         {experiments.map(exp => {
           return (

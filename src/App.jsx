@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="app">
-      <h2 className="app__title">Візуалізація метрик експериментів</h2>
+      <h2 className="app__title">Visualization of experiment metrics</h2>
       <FileUploader onParsed={setData} />
       {data.length > 0 && (
         <>
