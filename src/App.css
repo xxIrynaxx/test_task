@@ -1,0 +1,8 @@
+.app {
+  margin-top: 40px;
+}
+.app__title {
+  margin-bottom: 30px;
+  font-size: 32px;
+  text-align: center;
+}

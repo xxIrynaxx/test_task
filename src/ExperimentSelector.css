@@ -1,0 +1,12 @@
+.experiment-selector {
+  padding: 20px 0 0 20px;
+}
+
+.experiment-selector__title {
+  font-size: 24px;
+}
+
+.experiment-selector__item {
+  margin-bottom: 12px;
+  font-size: 18px;
+}
